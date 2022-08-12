@@ -1,0 +1,15 @@
+INDEX VERSION 1.131
+C:\Users\Ganesh\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2918994816.index
+\ProductPortal\src\main\java
+C:\Users\Ganesh\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2028258764.index
+\JSPSessions\src\main\java
+C:\Users\Ganesh\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\766556521.index
+\JSPActionTags\src\main\java
+C:\Users\Ganesh\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2474575241.index
+\JSPDirectives\src\main\java
+C:\Users\Ganesh\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1509454683.index
+\JSPImplicitObjects\src\main\java
+C:\Users\Ganesh\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2917837669.index
+\SimpleJSP\src\main\java
+C:\Users\Ganesh\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1948338183.index
+\JSPExamples\src\main\java
