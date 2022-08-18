@@ -11,7 +11,7 @@ pageEncoding="ISO-8859-1"%>
 <form action="AddProduct" method="post">
 <table>
 <tr>
-<td>Product ID:</td>
+<td>Product ID:</td> 
 <td><input type="text" name="id"/></td>
 </tr>
 <tr>
